@@ -33,8 +33,8 @@ flutter drive \ --driver=test_driver/perf_driver.dart \ --target=integration_tes
 
 ## 📁 Folder Structure
 lib/
-  models/
-  screens/
+models/
+screens/
 test/
   models/                <-- Unit test
   *.dart                 <-- Widget test
